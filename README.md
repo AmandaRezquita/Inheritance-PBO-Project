@@ -62,8 +62,8 @@ The program showcases multi-level inheritance and class relationships where spec
 
 1. **Clone or Download** the repository:
    ```bash
-   git clone https://github.com/your-username/shape-exploration-program.git
-   cd shape-exploration-program
+   git clone https://github.com/AmandaRezquita/Inheritance-PBO-Project.git
+   cd Inheritance-PBO-Project
    ```
 
 2. **Compile** all Java source files:
