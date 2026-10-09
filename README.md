@@ -1,8 +1,6 @@
 # 📐 Shape Exploration Program
 
 ![Language](https://img.shields.io/badge/Language-Java-orange.svg)
-![Paradigm](https://img.shields.io/badge/Paradigm-Object--Oriented%20Programming-blue.svg)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
 
 An interactive Java command-line application built to demonstrate core **Object-Oriented Programming (OOP)** principles: **Inheritance**, **Encapsulation**, **Polymorphism**, and **Dynamic Method Binding**.
 
